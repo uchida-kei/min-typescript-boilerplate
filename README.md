@@ -9,7 +9,7 @@
 * stylelint
 * pretter
 
-## setup
+## Setup
 
 ```bash
 git cline THIS_REPO_URL --depth 1 MY_PRJ_NAME
